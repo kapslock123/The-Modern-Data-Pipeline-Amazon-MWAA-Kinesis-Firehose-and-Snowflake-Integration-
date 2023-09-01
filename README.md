@@ -28,4 +28,4 @@ Please refer to the 'architecture diagram.pdf' file in the project repository fo
 1. Trigger the Airflow DAG from the Amazon MWAA console.
 2. Monitor the DAG execution progress in the Airflow UI.
 3. Verify the processed data in the Snowflake database and S3 processed bucket.
-<img width="951" alt="image" src="https://github.com/kapslock123/The-Modern-Data-Pipeline-Amazon-MWAA-Kinesis-Firehose-and-Snowflake-Integration/assets/56737638/72fe958b-9fa3-4b67-a09b-2627e94b57a6">
+<img width="1046" alt="image" src="https://github.com/kapslock123/The-Modern-Data-Pipeline-Amazon-MWAA-Kinesis-Firehose-and-Snowflake-Integration-/assets/56737638/51e26808-2b2b-4476-ad82-288f6496f3c3">
